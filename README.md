@@ -30,24 +30,24 @@ As per instructions we have to extract Mean and Std observations from data frame
 We are required to group by the subject and then activity.
 
 ## Variables:
-### Afeatures = The variables which are measured
+Afeatures = The variables which are measured
 
-### Aactivitylabel = Activity labels (1 WALKING , 2 WALKING_UPSTAIRS , 3 WALKING_DOWNSTAIRS , 4 SITTING , 5 STANDING , 6 LAYING)
+Aactivitylabel = Activity labels (1 WALKING , 2 WALKING_UPSTAIRS , 3 WALKING_DOWNSTAIRS , 4 SITTING , 5 STANDING , 6 LAYING)
 
-### subjecttest , subjecttrain = Subjects for test and train data sets.
+subjecttest , subjecttrain = Subjects for test and train data sets.
 
-### test , train = Observations for test and train data sets.
+test , train = Observations for test and train data sets.
 
-### testlabel, trainlabel = labels for test and train data sets.
+testlabel, trainlabel = labels for test and train data sets.
 
-### subjecttraintest = Combined dataframe of Subjects of test and train data sets
+subjecttraintest = Combined dataframe of Subjects of test and train data sets
 
-### traintestlabel = Combined dataframe of Labels of test and train data sets
+traintestlabel = Combined dataframe of Labels of test and train data sets
 
-### traintest = Combined dataframe of Observations of test and train data sets
+traintest = Combined dataframe of Observations of test and train data sets
 
-### completetraintest = Final Master data frame
+completetraintest = Final Master data frame
 
-### xy = dataframe of observations of "Activity","Subject","mean","std"
+xy = dataframe of observations of "Activity","Subject","mean","std"
 
-### yL = data frame grouped by Activity and then Subject
+yL = data frame grouped by Activity and then Subject
