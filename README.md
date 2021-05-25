@@ -6,6 +6,8 @@ The project comprises of getting and cleaning data using R programming language.
 - Appropriately labels the data set with descriptive variable names. 
 - From the data set in above step, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+The data for the project was obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+
 ## Procedure:
 
 ### Step No 1: Getting Features Names and Activity labels
