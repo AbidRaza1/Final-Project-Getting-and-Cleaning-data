@@ -1,6 +1,7 @@
 
 ## Getting Features and Activity labels
 
+# Reading data
 features <-    read.table("features.txt")
 Afeatures<- features$V2
 activitylabel<- read.table("activity_labels.txt")
